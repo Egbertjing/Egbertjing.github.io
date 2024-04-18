@@ -1,5 +1,5 @@
 ```
-- 👋 [https:://Egbertjing.github.io](https://egbertjing.github.io/)          ░█████╗░██╗
+- 👋 Hi, I’m @Egbertjing                                                     ░█████╗░██╗
 - 👀 I’m interested in AI field.                                             ██╔══██╗██║
 - 🌱 I’m currently learning Data Science on HKUST.                           ███████║██║
 - 📫 Reach me at hjingaa@connect.ust.hk.                                     ██╔══██║██║
