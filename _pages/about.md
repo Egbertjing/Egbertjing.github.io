@@ -20,3 +20,18 @@ Education
 
 * **Technical University of Munich, Munich** (2023 Summer) \
   Exchange Programme in TUM Informatics
+
+Research Experience
+------
+* Research Assistant at [KnowComp Group](https://github.com/HKUST-KnowComp), HKUST \
+  Advisor: Haoran Li, Professor Yangqiu Song
+
+* Research Assistant at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
+  Advisor: Ziyi Liu, Professor Xiaofang Zhou
+
+<!-- Research Papers
+------
+  
+* [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
+  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
+  **ICML-2024 Submission** -->
