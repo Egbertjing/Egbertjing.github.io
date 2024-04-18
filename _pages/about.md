@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As a final-year undergraduate student at the Hong Kong University of Science and Technology (HKUST), pursuing a main major in Data Science and Technology and a minor in Mathematics. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/) on embedding inversion attack, advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp). 
+As a final-year undergraduate student at the Hong Kong University of Science and Technology (HKUST), pursuing a main major in Data Science and Technology and a minor in Mathematics. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/) on embedding inversion attack, advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp). I also working with [Ziyi Liu](https://sites.google.com/view/ziyiliu) on point cloud indexing, advised by Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) on [JC STEM Lab](https://cse.hkust.edu.hk/dsf/). 
 
 Research Interest
 ======
@@ -24,10 +24,10 @@ Education
 Research Experience
 ------
 * Research Assistant at [KnowComp Group](https://github.com/HKUST-KnowComp), HKUST \
-  Advisor: Haoran Li, Professor Yangqiu Song
+  Advisor: [Haoran Li](https://hlibt.student.ust.hk/), Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
 * Research Assistant at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
-  Advisor: Ziyi Liu, Professor Xiaofang Zhou
+  Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)
 
 <!-- Research Papers
 ------
