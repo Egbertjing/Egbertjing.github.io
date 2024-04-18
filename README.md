@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Egbertjing                                                     ░█████╗░██╗<br>
+- 👋 Hi, I’m @Egbertjing&nbsp                                                    ░█████╗░██╗<br>
 - 👀 I’m interested in AI field.                                             ██╔══██╗██║<br>
 - 🌱 I’m currently learning Data Science on HKUST.                           ███████║██║<br>
 - 📫 Reach me at hjingaa@connect.ust.hk.                                     ██╔══██║██║<br>
