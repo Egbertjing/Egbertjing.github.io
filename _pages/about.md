@@ -29,9 +29,9 @@ Research Experience
 * Research Assistant at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
   Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)
 
-<!-- Research Papers
+Research Papers
 ------
   
-* [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
-  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
-  **ICML-2024 Submission** -->
+* [MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding](https://openreview.net/forum?id=0w1lzBv26x) \
+  Baixuan Xu,  Weiqi Wang, Haochen Shi, Wenxuan Ding, **<ins>Huihao JING</ins>**, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li， Chen Luo, Bing Yin, Long Chen, Yangqiu Song  \
+<!--  **ICML-2024 Submission** -->
