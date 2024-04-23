@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-# Research Projects
 
 ### Efficient Point Cloud Indexing
 Advisor: Prof. Xiaofang ZHOU - Hong Kong University of Science and Technology, HK  
@@ -27,3 +25,22 @@ techniques to reconstruct the original data.
 data has proven to be effective. We propose a novel architecture that utilizes an iterative method to reconstruct
 both node and relation information. The iterative mechanism aids in reinforcing and refining the recovery results
 at each iteration, leading to improved accuracy.
+
+### Number Embedding on Knowledge Graph (NEKG)
+Advisor: Dr. Yangqiu Song - Hong Kong University of Science and Technology, HK
+- The performance of traditional embedding methods, which do not specifically consider numbers, has been inade-
+quate when applied to number-sensitive knowledge graphs.
+- We analyzed and improve the current knowledge graph embedding method by utilizing of more sophisticated
+knowledge graph embedding techniques specifically tailored for numbers.
+- The experiments demonstrated that incorporating spatial considerations of numbers significantly enhances the
+performance of the task. Number embedding can be instrumental in facilitating classification tasks on datasets
+that are sensitive to numerical information. However, significant differences persist due to variations in the
+numerical range of the data.
+
+### Electronic Business Commerce Based on Theory of Mind
+HK
+
+- Google has substantiated that incorporating a "theory of mind" prompt can be advantageous for large language
+models in generating intension. The project introduces a multi-step approach using the theory of mind prompt
+to effectively guide the generation of shopping intentions, thereby offering a novel method for facilitating online
+shopping decisions.
