@@ -23,11 +23,11 @@ Education
 
 Research Experience
 ------
-* Research Assistant at [KnowComp Group](https://github.com/HKUST-KnowComp), HKUST \
+* Researcher at [KnowComp Group](https://github.com/HKUST-KnowComp), HKUST \
   Advisor: [Haoran Li](https://hlibt.student.ust.hk/), Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
-* Research Assistant at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
-  Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)
+<!---* Researcher at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
+  Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)--->
 
 Research Papers
 ------
