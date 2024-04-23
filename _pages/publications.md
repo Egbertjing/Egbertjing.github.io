@@ -5,8 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-Research Projects
-------
+# Research Projects
+
 ### Efficient Point Cloud Indexing
 Advisor: Prof. Xiaofang ZHOU - Hong Kong University of Science and Technology, HK  
 - Discrete spatial-temporal data is not easy to handle because of some challenging properties, such as multi-
