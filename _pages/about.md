@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-As a final-year undergraduate student at the Hong Kong University of Science and Technology (HKUST), pursuing a main major in Data Science and Technology and a minor in Mathematics. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/) on embedding inversion attack, advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp). I also working with [Ziyi Liu](https://sites.google.com/view/ziyiliu) on point cloud indexing, advised by Prof. [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) on [JC STEM Lab](https://cse.hkust.edu.hk/dsf/). 
+I‘m a incoming MPhill student at the Hong Kong University of Science and Technology (HKUST) at Spring 2025, major in Computer Science. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/), advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp).
 
 Research Interest
 ======
-My research interests encompass a wide range of machine learning applications, focusing specifically on natural language processing, large language models, and addressing privacy concerns in the field of machine learning. Throughout my undergraduate studies, I have dedicated my focus to addressing privacy concerns in machine learning and training problem on knowledge graph. My ultimate goal is to identify and address security issues across the entire pipeline of machine learning.
+My research interests encompass a wide range of machine learning applications, focusing specifically on trustworthy AI, natural language processing, large language models.
 
 Education
 ------
@@ -26,12 +26,16 @@ Research Experience
 * Researcher at [KnowComp Group](https://github.com/HKUST-KnowComp), HKUST \
   Advisor: [Haoran Li](https://hlibt.student.ust.hk/), Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)
 
-<!---* Researcher at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
-  Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)--->
+* Researcher at [JC STEM Lab](https://cse.hkust.edu.hk/dsf/), HKUST \
+  Advisor: [Ziyi Liu](https://sites.google.com/view/ziyiliu), Professor [Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou)
 
 Research Papers
 ------
+
+* [Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning](https://arxiv.org/abs/2408.07091) \
+  Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song  \
+
   
 * [MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding](https://openreview.net/forum?id=0w1lzBv26x) \
   Baixuan Xu,  Weiqi Wang, Haochen Shi, Wenxuan Ding, **<ins>Huihao JING</ins>**, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li， Chen Luo, Bing Yin, Long Chen, Yangqiu Song  \
-  **EMNLP-2024 Submission**
+  **EMNLP-2024**
