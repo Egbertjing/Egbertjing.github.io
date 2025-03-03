@@ -36,7 +36,7 @@ Research Papers
 ------
 
 * [Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning](https://arxiv.org/abs/2408.07091) \
-  Wenbin Hu, Huihao Jing, Qi Hu, Haoran Li, Yangqiu Song  \
+  Wenbin Hu, **<ins>Huihao JING</ins>**, Qi Hu, Haoran Li, Yangqiu Song  \
 
   
 * [MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding](https://openreview.net/forum?id=0w1lzBv26x) \
