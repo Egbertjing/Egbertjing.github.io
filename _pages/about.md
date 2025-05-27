@@ -34,6 +34,17 @@ Research Experience
 
 Research Papers
 ------
+* [MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol](https://arxiv.org/abs/2505.14590) \
+  **<ins>Huihao Jing</ins>**, Haoran Li, Wenbin Hu, Qi Hu, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song  \
+
+
+* [Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning](https://arxiv.org/abs/2505.14585) \
+  Wenbin Hu, Haoran Li, **<ins>Huihao Jing</ins>**, Qi Hu, Ziqian Zeng, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song  \
+
+
+* [Privaci-bench: Evaluating privacy with contextual integrity and legal compliance](https://arxiv.org/abs/2502.17041) \
+  Haoran Li, Wenbin Hu, **<ins>Huihao Jing</ins>**, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song  \
+  **NAACL-2025**
 
 * [Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning](https://arxiv.org/abs/2408.07091) \
   Wenbin Hu, **<ins>Huihao JING</ins>**, Qi Hu, Haoran Li, Yangqiu Song  \
