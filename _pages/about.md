@@ -44,7 +44,7 @@ Research Papers
 
 * [Privaci-bench: Evaluating privacy with contextual integrity and legal compliance](https://arxiv.org/abs/2502.17041) \
   Haoran Li, Wenbin Hu, **<ins>Huihao Jing</ins>**, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song  \
-  **NAACL-2025**
+  **ACL-2025**
 
 * [Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning](https://arxiv.org/abs/2408.07091) \
   Wenbin Hu, **<ins>Huihao JING</ins>**, Qi Hu, Haoran Li, Yangqiu Song  \
