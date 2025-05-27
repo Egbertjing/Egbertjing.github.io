@@ -41,4 +41,4 @@ Research Papers
   
 * [MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding](https://openreview.net/forum?id=0w1lzBv26x) \
   Baixuan Xu,  Weiqi Wang, Haochen Shi, Wenxuan Ding, **<ins>Huihao JING</ins>**, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li， Chen Luo, Bing Yin, Long Chen, Yangqiu Song  \
-  **EMNLP-2024 Outstanding**
+  **EMNLP-2024**
