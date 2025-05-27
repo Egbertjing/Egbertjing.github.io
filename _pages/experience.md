@@ -1,9 +1,9 @@
---
+---
 layout: archive
 title: "Work Experience"
 permalink: /experience/
-author_profile: true
---
+author_profile: false
+---
 
 ### Full Time Software Developer in 37.5Lab, HKUST (June 2022 - Jan 2023)
 Advisor: Prof. Kani Chen - Hong Kong University of Science and Technology, HK
