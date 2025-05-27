@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
-  - title: "Experience"
-    url: /experience/    
+  # - title: "Experience"
+  #   url: /experience/    
 
   # - title: "Teaching"
   #   url: /teaching/    
