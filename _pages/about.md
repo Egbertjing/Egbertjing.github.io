@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I‘m a MPhil student at the Hong Kong University of Science and Technology (HKUST) from Spring 2025, majoring in Computer Science. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/), advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp).
+I‘m a PhD student at the Hong Kong University of Science and Technology (HKUST) from Spring 2025, majoring in Computer Science. Currently, I am working with [Haoran Li](https://hlibt.student.ust.hk/), advised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) on [KnowComp Group](https://github.com/HKUST-KnowComp).
 
 Research Interest
 ======
