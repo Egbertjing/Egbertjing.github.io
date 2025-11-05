@@ -38,7 +38,7 @@ Research Papers
   **<ins>Huihao Jing</ins>**, Wenbin Hu, Hongyu Luo, Jianhui Yang, Wei Fan, Haoran Li, Yangqiu Song
 
 * [Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance](https://arxiv.org/abs/2509.22250) \
-  Wenbin Hu, **<ins>Huihao Jing</ins>**, Haochen Shi, Haoran Li†, Yangqiu Song
+  Wenbin Hu, **<ins>Huihao Jing</ins>**, Haochen Shi, Haoran Li, Yangqiu Song
   
 * [GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners](https://arxiv.org/abs/2509.24418) \
   Haoran Li, Yulin Chen, Jingru Zeng, Hao Peng, **<ins>Huihao Jing</ins>**, Wenbin Hu, Xi Yang, Ziqian Zeng, Sirui Han, Yangqiu Song
