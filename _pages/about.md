@@ -11,7 +11,7 @@ I‘m a PhD student at the Hong Kong University of Science and Technology (HKUST
 
 Research Interest
 ======
-My research interests encompass a wide range of machine learning applications, focusing specifically on trustworthy AI, LLM agents safety.
+I am interested in LLM agents and AI safety.
 
 Education
 ------
