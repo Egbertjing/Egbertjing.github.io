@@ -85,7 +85,7 @@ Education
   </div>
 </div>
 
-Teaching
+Teaching Assistant
 ------
 
 <div class="single-record">
