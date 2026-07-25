@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong"
-title                    : "Huihao JING's Webpage"
+title                    : "Huihao Jing"
 title_separator          : "-"
 name                     : &name "JING Huihao"
 description              : &description "Academic homepage of Huihao Jing, a PhD student at HKUST working on LLM agents and AI safety."

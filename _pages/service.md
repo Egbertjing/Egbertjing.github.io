@@ -4,43 +4,55 @@ title: "Academic Service"
 author_profile: true
 ---
 
-I contribute to the research community through reviewing, area chair service,
-and other academic activities. A selected record will be added here.
+<div class="intro-panel">
+  <p class="page-kicker">Community</p>
+  <p class="intro-lead">I contribute to the research community through reviewing, area chair service, and other academic activities.</p>
+</div>
 
-Area Chair
-------
+<div class="service-grid">
+  <section class="service-column">
+    <span class="service-mark">AC</span>
+    <h2>Area Chair</h2>
+    {% if site.data.service.area_chair.size > 0 %}
+    <ul class="service-list">
+      {% for item in site.data.service.area_chair %}
+      <li><strong>{{ item.venue }}</strong><span>{{ item.year }}</span></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="empty-state">To be updated</p>
+    {% endif %}
+  </section>
 
-{% if site.data.service.area_chair.size > 0 %}
-{% for item in site.data.service.area_chair %}
-* **{{ item.venue }}**, {{ item.year }}
-{% endfor %}
-{% else %}
-* To be updated
-{% endif %}
+  <section class="service-column">
+    <span class="service-mark">REV</span>
+    <h2>Reviewer</h2>
+    {% if site.data.service.reviewer.size > 0 %}
+    <ul class="service-list">
+      {% for item in site.data.service.reviewer %}
+      <li><strong>{{ item.venue }}</strong><span>{{ item.year }}</span></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="empty-state">To be updated</p>
+    {% endif %}
+  </section>
 
-Reviewer
-------
-
-{% if site.data.service.reviewer.size > 0 %}
-{% for item in site.data.service.reviewer %}
-* **{{ item.venue }}**, {{ item.year }}
-{% endfor %}
-{% else %}
-* To be updated
-{% endif %}
-
-Other Service
-------
-
-{% if site.data.service.other.size > 0 %}
-{% for item in site.data.service.other %}
-* **{{ item.activity }}**, {{ item.year }}
-{% endfor %}
-{% else %}
-* To be updated
-{% endif %}
+  <section class="service-column">
+    <span class="service-mark">OTH</span>
+    <h2>Other Service</h2>
+    {% if site.data.service.other.size > 0 %}
+    <ul class="service-list">
+      {% for item in site.data.service.other %}
+      <li><strong>{{ item.activity }}</strong><span>{{ item.year }}</span></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="empty-state">To be updated</p>
+    {% endif %}
+  </section>
+</div>
 
 <p class="page-note">
 To update this page, add venues and years to <code>_data/service.yml</code>.
 </p>
-
