@@ -488,6 +488,36 @@ a {
   font-style: italic;
 }
 
+.research-work {
+  margin-top: 0.8rem !important;
+  color: var(--muted);
+  font-size: 0.76rem !important;
+
+  span {
+    margin-right: 0.35rem;
+    color: var(--accent-dark);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+}
+
+.research-approach {
+  margin-top: 2rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.5);
+
+  p:last-child {
+    max-width: 44rem;
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.82rem;
+    line-height: 1.7;
+  }
+}
+
 /* Service */
 
 .service-grid {
