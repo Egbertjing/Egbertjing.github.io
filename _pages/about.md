@@ -18,19 +18,19 @@ redirect_from:
   </div>
 </div>
 
-Research interests
+Research Interests
 ------
 
 <div class="interest-grid">
   <div class="interest-item">
     <span class="interest-index">01</span>
     <h3>LLM Agents</h3>
-    <p>Agent systems, tool use, memory, multi-agent reasoning, and evaluation across long trajectories.</p>
+    <p>Building and evaluating agents that use tools, memory, and multi-agent workflows.</p>
   </div>
   <div class="interest-item">
     <span class="interest-index">02</span>
     <h3>LLM Safety</h3>
-    <p>System safety, privacy, contextual integrity, and policy or legal compliance for language models and agents.</p>
+    <p>Making language models and agents safer, more private, and policy compliant.</p>
   </div>
 </div>
 

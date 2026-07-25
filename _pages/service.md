@@ -37,20 +37,6 @@ author_profile: true
     <p class="empty-state">To be updated</p>
     {% endif %}
   </section>
-
-  <section class="service-column">
-    <span class="service-mark">OTH</span>
-    <h2>Other Service</h2>
-    {% if site.data.service.other.size > 0 %}
-    <ul class="service-list">
-      {% for item in site.data.service.other %}
-      <li><strong>{{ item.activity }}</strong><span>{{ item.year }}</span></li>
-      {% endfor %}
-    </ul>
-    {% else %}
-    <p class="empty-state">To be updated</p>
-    {% endif %}
-  </section>
 </div>
 
 <p class="page-note">
