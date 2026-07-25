@@ -338,12 +338,13 @@ a {
 
 .interest-index {
   position: absolute;
-  top: 1.35rem;
-  left: 0.25rem;
+  top: 1.28rem;
+  left: 0.45rem;
   color: var(--accent);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.7rem;
+  font-size: 0.86rem;
   font-style: italic;
+  font-weight: 600;
 }
 
 .interest-item:nth-child(2) .interest-index {
@@ -575,8 +576,9 @@ a {
   padding-top: 0.15rem;
   color: var(--accent);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.75rem;
+  font-size: 0.9rem;
   font-style: italic;
+  font-weight: 600;
 }
 
 .research-theme:nth-child(2) .theme-index {
