@@ -38,6 +38,11 @@
   box-shadow: none;
 }
 
+.author__urls li,
+.author__urls li a {
+  white-space: normal;
+}
+
 .page-note {
   margin-top: 2.5rem;
   padding: 0.9rem 1rem;
@@ -140,4 +145,3 @@
     grid-template-columns: 1fr;
   }
 }
-
