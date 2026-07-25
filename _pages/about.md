@@ -85,10 +85,10 @@ Education
   </div>
 </div>
 
-Teaching Assistant
+Teaching
 ------
 
 <div class="single-record">
   <span>Fall 2025</span>
-  <strong>COMP 4222 · Machine Learning with Structured Data</strong>
+  <strong>Teaching Assistant · COMP 4222 · Machine Learning with Structured Data</strong>
 </div>
