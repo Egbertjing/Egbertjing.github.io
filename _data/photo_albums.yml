@@ -1,0 +1,24 @@
+- title: "Hong Kong"
+  slug: "hong-kong"
+  region: "Hong Kong"
+  description: "Harbour light, dense streets, hills, and quiet edges of the city."
+  photos: []
+
+- title: "Shenzhen"
+  slug: "shenzhen"
+  region: "Guangdong"
+  description: "A growing collection of urban lines, subtropical green, and daily movement."
+  photos: []
+
+- title: "Mainland China"
+  slug: "mainland-china"
+  region: "China"
+  description: "Journeys across cities and landscapes in different parts of China."
+  photos: []
+
+- title: "Europe"
+  slug: "europe"
+  region: "Europe"
+  description: "Places encountered during study, travel, and long walks."
+  photos: []
+

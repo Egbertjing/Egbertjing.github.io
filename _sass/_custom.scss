@@ -1,0 +1,143 @@
+/* Light refinements that preserve the original AcademicPages character. */
+
+.masthead {
+  border-bottom: 1px solid #e4e4e4;
+  box-shadow: none;
+}
+
+.greedy-nav {
+  background: #fff;
+
+  a {
+    font-weight: 500;
+  }
+
+  .visible-links a::before {
+    height: 2px;
+    background: #3d6f8e;
+  }
+}
+
+.page__title {
+  margin-bottom: 1.4rem;
+}
+
+.page__content {
+  h2 {
+    margin-top: 2.2rem;
+    border-bottom-color: #e7e7e7;
+  }
+
+  li {
+    margin-bottom: 0.6rem;
+  }
+}
+
+.author__avatar img {
+  border: 1px solid #ececec;
+  box-shadow: none;
+}
+
+.page-note {
+  margin-top: 2.5rem;
+  padding: 0.9rem 1rem;
+  border-left: 3px solid #9cb4c3;
+  background: #f7f9fa;
+  color: #66747d;
+  font-size: 0.78rem;
+}
+
+.photo-albums {
+  margin-top: 2rem;
+}
+
+.photo-album {
+  margin-bottom: 3.6rem;
+  padding-bottom: 2.6rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.photo-album__heading {
+  display: flex;
+  margin-bottom: 1.3rem;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+
+  h2 {
+    margin: 0.15rem 0 0.4rem;
+    border: 0;
+  }
+
+  p {
+    max-width: 34rem;
+    margin: 0;
+    color: #66747d;
+  }
+}
+
+.photo-album__region,
+.photo-album__count {
+  color: #788994;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.photo-album__count {
+  padding-bottom: 0.35rem;
+  white-space: nowrap;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.photo-item {
+  margin: 0;
+
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: 2px;
+    object-fit: cover;
+    transition: opacity 160ms ease;
+  }
+
+  a:hover img {
+    opacity: 0.9;
+  }
+
+  figcaption {
+    margin-top: 0.35rem;
+    color: #77848c;
+    font-size: 0.7rem;
+  }
+}
+
+.photo-placeholder {
+  display: grid;
+  min-height: 10rem;
+  place-items: center;
+  border: 1px dashed #cdd5d9;
+  background:
+    linear-gradient(135deg, rgba(77, 114, 138, 0.04), transparent 55%),
+    #fafbfb;
+  color: #8a989f;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .photo-album__heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
