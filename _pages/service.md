@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="intro-panel">
   <p class="page-kicker">Community</p>
-  <p class="intro-lead">I contribute to the research community through reviewing, area chair service, and other academic activities.</p>
+  <p class="intro-lead">I contribute to the research community through reviewing and area chair service.</p>
 </div>
 
 <div class="service-grid">
@@ -36,7 +36,3 @@ author_profile: true
     {% endif %}
   </section>
 </div>
-
-<p class="page-note">
-To update this page, add venues and years to <code>_data/service.yml</code>.
-</p>
