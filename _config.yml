@@ -10,7 +10,7 @@
 locale                   : "Hong Kong"
 title                    : "Huihao Jing"
 title_separator          : "-"
-name                     : &name "JING Huihao"
+name                     : &name "Huihao Jing"
 description              : &description "Academic homepage of Huihao Jing, a PhD student at HKUST working on LLM agents and AI safety."
 url                      : https://Egbertjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Egbertjing/Egbertjing.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "JING Huihao"
+  name             : "Huihao Jing"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at The Hong Kong University of Science and Technology"
   location         : "Hong Kong"
