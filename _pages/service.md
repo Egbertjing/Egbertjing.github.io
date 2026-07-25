@@ -11,7 +11,6 @@ author_profile: true
 
 <div class="service-grid">
   <section class="service-column">
-    <span class="service-mark">AC</span>
     <h2>Area Chair</h2>
     {% if site.data.service.area_chair.size > 0 %}
     <ul class="service-list">
@@ -25,7 +24,6 @@ author_profile: true
   </section>
 
   <section class="service-column">
-    <span class="service-mark">REV</span>
     <h2>Reviewer</h2>
     {% if site.data.service.reviewer.size > 0 %}
     <ul class="service-list">

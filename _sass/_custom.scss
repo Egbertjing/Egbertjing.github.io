@@ -533,7 +533,7 @@ a {
   border-top: 2px solid var(--accent);
 
   h2 {
-    margin: 0.65rem 0 1rem;
+    margin: 0 0 1rem;
     padding: 0;
     border: 0;
     color: var(--ink);
@@ -541,13 +541,6 @@ a {
     font-size: 1.08rem;
     font-weight: 600;
   }
-}
-
-.service-mark {
-  color: var(--faint);
-  font-size: 0.62rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
 }
 
 .service-list {
