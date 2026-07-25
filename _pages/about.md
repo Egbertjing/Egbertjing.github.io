@@ -24,23 +24,13 @@ Research interests
 <div class="interest-grid">
   <div class="interest-item">
     <span class="interest-index">01</span>
-    <h3>Agent systems</h3>
-    <p>Infrastructure, tools, memory, permissions, and recovery for long-running language agents.</p>
+    <h3>LLM Agents</h3>
+    <p>Agent systems, tool use, memory, multi-agent reasoning, and evaluation across long trajectories.</p>
   </div>
   <div class="interest-item">
     <span class="interest-index">02</span>
-    <h3>AI safety and privacy</h3>
-    <p>System-level safeguards and contextual integrity across complete agent trajectories.</p>
-  </div>
-  <div class="interest-item">
-    <span class="interest-index">03</span>
-    <h3>Agent reasoning</h3>
-    <p>Multi-agent coordination, long-horizon reasoning, and evaluation beyond final answers.</p>
-  </div>
-  <div class="interest-item">
-    <span class="interest-index">04</span>
-    <h3>Policy and compliance</h3>
-    <p>Reasoning over rules, laws, social roles, and information-flow constraints.</p>
+    <h3>LLM Safety</h3>
+    <p>System safety, privacy, contextual integrity, and policy or legal compliance for language models and agents.</p>
   </div>
 </div>
 
@@ -52,6 +42,11 @@ Selected publications
     <div class="publication-meta"><span>2026</span><span>Preprint</span></div>
     <h3><a href="https://arxiv.org/abs/2607.12406">Isolation as a First-Class Principle for LLM-Agent System Safety</a></h3>
     <p class="publication-authors"><strong>Huihao Jing</strong>, Wenbin Hu, Shaojin Chen, Haochen Shi, Sirui Zhang, Hanyu Yang, Changxuan Fan, Zhongwei Xie, Hongyu Luo, Wun Yu Chan, Wei Fan, Haoran Li, Yangqiu Song</p>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-meta"><span>2026</span><span>Preprint</span></div>
+    <h3><a href="https://arxiv.org/abs/2605.15222">PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization</a></h3>
+    <p class="publication-authors"><strong>Huihao Jing</strong>, Wenbin Hu, Haochen Shi, Hanyu Yang, Sirui Zhang, Shaojin Chen, Haoran Li, Yangqiu Song</p>
   </article>
   <article class="publication-entry">
     <div class="publication-meta"><span>2025</span><span>Preprint</span></div>

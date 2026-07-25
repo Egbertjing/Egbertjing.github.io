@@ -260,10 +260,6 @@ a {
     border-right: 1px solid var(--line);
   }
 
-  &:nth-child(-n + 2) {
-    border-bottom: 1px solid var(--line);
-  }
-
   h3 {
     margin: 0 0 0.45rem;
     color: var(--ink);

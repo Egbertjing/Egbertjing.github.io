@@ -20,6 +20,26 @@ author_profile: true
     <p class="publication-authors"><strong>Huihao Jing</strong>, Wenbin Hu, Shaojin Chen, Haochen Shi, Sirui Zhang, Hanyu Yang, Changxuan Fan, Zhongwei Xie, Hongyu Luo, Wun Yu Chan, Wei Fan, Haoran Li, Yangqiu Song</p>
   </article>
   <article class="publication-entry">
+    <div class="publication-meta"><span>2026</span><span>Preprint</span></div>
+    <h3><a href="https://arxiv.org/abs/2606.16591">SING: Synthetic Intention Graph for Scalable Active Tool Discovery in LLM Agents</a></h3>
+    <p class="publication-authors">Qiao Xiao, Haochen Shi, Yisen Gao, Wenbin Hu, <strong>Huihao Jing</strong>, Tianshi Zheng, Baixuan Xu, Ziheng Zhang, Weiqi Wang, Haoran Li, Jiaxin Bai, Yangqiu Song</p>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-meta"><span>2026</span><span>Preprint</span></div>
+    <h3><a href="https://arxiv.org/abs/2605.15222">PerfCodeBench: Benchmarking LLMs for System-Level High-Performance Code Optimization</a></h3>
+    <p class="publication-authors"><strong>Huihao Jing</strong>, Wenbin Hu, Haochen Shi, Hanyu Yang, Sirui Zhang, Shaojin Chen, Haoran Li, Yangqiu Song</p>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-meta"><span>2026</span><span>Preprint</span></div>
+    <h3><a href="https://doi.org/10.13140/RG.2.2.31393.57447">A Survey on AI Agent Harness</a></h3>
+    <p class="publication-authors">Zhongwei Xie, Xiyu Ren, Tianshi Zheng, Jiaxin Bai, Wei Fan, Baixuan Xu, Haoran Li, <strong>Huihao Jing</strong>, Yangqiu Song</p>
+  </article>
+  <article class="publication-entry">
+    <div class="publication-meta"><span>2026</span><span>ACL</span></div>
+    <h3><a href="https://aclanthology.org/2026.acl-long.294/">ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance</a></h3>
+    <p class="publication-authors">Haoran Li, Yulin Chen, <strong>Huihao Jing</strong>, Wenbin Hu, Tsz Ho Li, Chanhou Lou, Hong Ting Tsang, Sirui Han, Yangqiu Song</p>
+  </article>
+  <article class="publication-entry">
     <div class="publication-meta"><span>2026</span><span>Findings of ACL</span></div>
     <h3><a href="https://aclanthology.org/2026.findings-acl.115/">OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset</a></h3>
     <p class="publication-authors">Wenbin Hu, <strong>Huihao Jing</strong>, Haochen Shi, Changxuan Fan, Haoran Li, Yangqiu Song</p>
