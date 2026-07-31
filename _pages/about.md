@@ -67,6 +67,18 @@ Selected publications
 
 <p class="section-link"><a href="/publications/">View all publications <span aria-hidden="true">→</span></a></p>
 
+Latest writing
+------
+
+{% assign latest_blog_posts = site.blog | sort: "date" | reverse %}
+<div class="blog-grid blog-grid--home">
+  {% for post in latest_blog_posts limit: 3 %}
+    {% include blog-card.html post=post %}
+  {% endfor %}
+</div>
+
+<p class="section-link"><a href="/blog/">Browse the notebook <span aria-hidden="true">→</span></a></p>
+
 Education
 ------
 

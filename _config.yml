@@ -198,6 +198,9 @@ kramdown:
 
 # Collections
 collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -214,6 +217,17 @@ collections:
 
 # Defaults
 defaults:
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
   # _posts
   - scope:
       path: ""

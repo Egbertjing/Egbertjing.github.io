@@ -1,0 +1,15 @@
+{% assign blog_post = include.post %}
+{% assign blog_summary = blog_post.summary | default: blog_post.excerpt %}
+<article class="blog-card">
+  <a class="blog-card__link" href="{{ blog_post.url | relative_url }}" aria-label="Read {{ blog_post.title | escape }}">
+    <div class="blog-card__meta">
+      <time datetime="{{ blog_post.date | date_to_xmlschema }}">{{ blog_post.date | date: "%b %Y" }}</time>
+      {% if blog_post.topic %}<span>{{ blog_post.topic }}</span>{% endif %}
+    </div>
+    <h3>{{ blog_post.title }}</h3>
+    {% if blog_summary %}
+      <p>{{ blog_summary | markdownify | strip_html | strip_newlines }}</p>
+    {% endif %}
+    <span class="blog-card__cta">Read note <span aria-hidden="true">→</span></span>
+  </a>
+</article>

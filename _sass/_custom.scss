@@ -423,6 +423,99 @@ a {
   border-bottom: 0;
 }
 
+/* Blog */
+
+.blog-grid {
+  display: grid;
+  border-top: 1px solid var(--line);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.blog-card {
+  min-width: 0;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+
+  &:nth-child(even) {
+    border-right: 0;
+  }
+}
+
+.blog-card__link {
+  display: flex;
+  height: 100%;
+  min-height: 16rem;
+  padding: 1.35rem 1.25rem 1.2rem;
+  color: var(--ink) !important;
+  flex-direction: column;
+  text-decoration: none !important;
+  transition: background 160ms ease;
+
+  &:hover {
+    background: var(--accent-soft);
+  }
+
+  h3 {
+    margin: 1.35rem 0 0.65rem;
+    color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.28rem;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0 0 1.5rem !important;
+    color: var(--muted);
+    font-size: 0.82rem !important;
+    line-height: 1.62;
+  }
+}
+
+.blog-card__meta {
+  display: flex;
+  color: var(--warm-dark);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  align-items: center;
+  justify-content: space-between;
+  text-transform: uppercase;
+
+  time {
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: none;
+  }
+
+  span {
+    color: var(--accent-dark);
+  }
+}
+
+.blog-card__cta {
+  margin-top: auto;
+  color: var(--accent-dark);
+  font-size: 0.72rem;
+  font-weight: 700;
+
+  span {
+    display: inline-block;
+    margin-left: 0.25rem;
+    transition: transform 160ms ease;
+  }
+}
+
+.blog-card__link:hover .blog-card__cta span {
+  transform: translateX(3px);
+}
+
+.blog-grid--home .blog-card__link {
+  min-height: 14rem;
+}
+
 .section-link {
   margin-top: 1.2rem !important;
   text-align: right;
@@ -888,6 +981,19 @@ a {
     margin-bottom: 0.65rem;
     align-items: center;
     flex-direction: row;
+  }
+
+  .blog-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-card,
+  .blog-card:nth-child(even) {
+    border-right: 0;
+  }
+
+  .blog-card__link {
+    min-height: 0;
   }
 
   .timeline-row,
