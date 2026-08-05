@@ -13,117 +13,140 @@
       thumb: "/images/photography/san-francisco/01-dscf3433-960.webp"
       width: 960
       height: 640
-      alt: San Francisco photograph 1
+      alt: 'San Francisco: Alcatraz in the fog'
+      caption: Alcatraz in the fog
     - src: "/images/photography/san-francisco/02-dscf3440-1800.webp"
       thumb: "/images/photography/san-francisco/02-dscf3440-960.webp"
       width: 960
       height: 606
-      alt: San Francisco photograph 2
+      alt: 'San Francisco: Only in San Francisco'
+      caption: Only in San Francisco
     - src: "/images/photography/san-francisco/03-dscf3474-1800.webp"
       thumb: "/images/photography/san-francisco/03-dscf3474-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 3
+      alt: 'San Francisco: Powell & Market'
+      caption: Powell & Market
     - src: "/images/photography/san-francisco/04-dscf3552-1800.webp"
       thumb: "/images/photography/san-francisco/04-dscf3552-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 4
+      alt: 'San Francisco: Flags above the street'
+      caption: Flags above the street
     - src: "/images/photography/san-francisco/05-dscf3607-1800.webp"
       thumb: "/images/photography/san-francisco/05-dscf3607-960.webp"
       width: 960
       height: 743
-      alt: San Francisco photograph 5
+      alt: 'San Francisco: Bay Bridge over the water'
+      caption: Bay Bridge over the water
     - src: "/images/photography/san-francisco/06-dscf3651-1800.webp"
       thumb: "/images/photography/san-francisco/06-dscf3651-960.webp"
       width: 960
       height: 640
-      alt: San Francisco photograph 6
+      alt: 'San Francisco: Alcatraz across the bay'
+      caption: Alcatraz across the bay
     - src: "/images/photography/san-francisco/07-dscf3661-1800.webp"
       thumb: "/images/photography/san-francisco/07-dscf3661-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 7
+      alt: 'San Francisco: Ferris wheel by the bay'
+      caption: Ferris wheel by the bay
     - src: "/images/photography/san-francisco/08-dscf3673-1800.webp"
       thumb: "/images/photography/san-francisco/08-dscf3673-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 8
+      alt: 'San Francisco: Golden Gate geometry'
+      caption: Golden Gate geometry
     - src: "/images/photography/san-francisco/09-dscf3702-1800.webp"
       thumb: "/images/photography/san-francisco/09-dscf3702-960.webp"
       width: 574
       height: 960
-      alt: San Francisco photograph 9
+      alt: 'San Francisco: Golden Gate through the trees'
+      caption: Golden Gate through the trees
     - src: "/images/photography/san-francisco/10-dscf3722-1800.webp"
       thumb: "/images/photography/san-francisco/10-dscf3722-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 10
+      alt: 'San Francisco: Pacific rocks'
+      caption: Pacific rocks
     - src: "/images/photography/san-francisco/11-dscf3723-1800.webp"
       thumb: "/images/photography/san-francisco/11-dscf3723-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 11
+      alt: 'San Francisco: Along the rocky coast'
+      caption: Along the rocky coast
     - src: "/images/photography/san-francisco/12-dscf3737-1800.webp"
       thumb: "/images/photography/san-francisco/12-dscf3737-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 12
+      alt: 'San Francisco: A lone bird over the Pacific'
+      caption: A lone bird over the Pacific
     - src: "/images/photography/san-francisco/13-dscf3761-1800.webp"
       thumb: "/images/photography/san-francisco/13-dscf3761-960.webp"
       width: 701
       height: 960
-      alt: San Francisco photograph 13
+      alt: 'San Francisco: Sutro Baths ruins'
+      caption: Sutro Baths ruins
     - src: "/images/photography/san-francisco/14-dscf3821-1800.webp"
       thumb: "/images/photography/san-francisco/14-dscf3821-960.webp"
       width: 960
       height: 640
-      alt: San Francisco photograph 14
+      alt: 'San Francisco: City beneath the fog'
+      caption: City beneath the fog
     - src: "/images/photography/san-francisco/15-dscf3825-1800.webp"
       thumb: "/images/photography/san-francisco/15-dscf3825-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 15
+      alt: 'San Francisco: Golden Gate in the mist'
+      caption: Golden Gate in the mist
     - src: "/images/photography/san-francisco/16-dscf3914-1800.webp"
       thumb: "/images/photography/san-francisco/16-dscf3914-960.webp"
       width: 960
       height: 640
-      alt: San Francisco photograph 16
+      alt: 'San Francisco: Apple Park details'
+      caption: Apple Park details
     - src: "/images/photography/san-francisco/17-dscf4094-1800.webp"
       thumb: "/images/photography/san-francisco/17-dscf4094-960.webp"
       width: 960
       height: 576
-      alt: San Francisco photograph 17
+      alt: 'San Francisco: Rodin at Stanford'
+      caption: Rodin at Stanford
     - src: "/images/photography/san-francisco/18-dscf4113-1800.webp"
       thumb: "/images/photography/san-francisco/18-dscf4113-960.webp"
       width: 594
       height: 960
-      alt: San Francisco photograph 18
+      alt: 'San Francisco: Hoover Tower'
+      caption: Hoover Tower
     - src: "/images/photography/san-francisco/19-dscf4377-1800.webp"
       thumb: "/images/photography/san-francisco/19-dscf4377-960.webp"
       width: 960
       height: 640
-      alt: San Francisco photograph 19
+      alt: 'San Francisco: Pacific sunset'
+      caption: Pacific sunset
     - src: "/images/photography/san-francisco/20-dscf4415-1800.webp"
       thumb: "/images/photography/san-francisco/20-dscf4415-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 20
+      alt: 'San Francisco: Santa Monica Pier'
+      caption: Santa Monica Pier
     - src: "/images/photography/san-francisco/21-dscf4441-1800.webp"
       thumb: "/images/photography/san-francisco/21-dscf4441-960.webp"
       width: 640
       height: 960
-      alt: San Francisco photograph 21
+      alt: 'San Francisco: Rolling Pacific swell'
+      caption: Rolling Pacific swell
     - src: "/images/photography/san-francisco/22-dscf4580-1800.webp"
       thumb: "/images/photography/san-francisco/22-dscf4580-960.webp"
       width: 960
       height: 524
-      alt: San Francisco photograph 22
+      alt: 'San Francisco: Light through storm clouds'
+      caption: Light through storm clouds
     - src: "/images/photography/san-francisco/23-dscf4589-1800.webp"
       thumb: "/images/photography/san-francisco/23-dscf4589-960.webp"
       width: 960
       height: 519
-      alt: San Francisco photograph 23
+      alt: 'San Francisco: Sunset on the horizon'
+      caption: Sunset on the horizon
   - title: Los Angeles
     slug: los-angeles
     description: Bright arrivals, Santa Monica color, rolling water, and late Pacific
@@ -133,52 +156,62 @@
       thumb: "/images/photography/los-angeles/01-dscf4140-960.webp"
       width: 960
       height: 640
-      alt: Los Angeles photograph 1
+      alt: 'Los Angeles: Arrival'
+      caption: Arrival
     - src: "/images/photography/los-angeles/02-dscf4169-1800.webp"
       thumb: "/images/photography/los-angeles/02-dscf4169-960.webp"
       width: 960
       height: 640
-      alt: Los Angeles photograph 2
+      alt: 'Los Angeles: A curious visitor'
+      caption: A curious visitor
     - src: "/images/photography/los-angeles/03-dscf4195-1800.webp"
       thumb: "/images/photography/los-angeles/03-dscf4195-960.webp"
       width: 960
       height: 640
-      alt: Los Angeles photograph 3
+      alt: 'Los Angeles: Santa Monica coaster'
+      caption: Santa Monica coaster
     - src: "/images/photography/los-angeles/04-dscf4275-1800.webp"
       thumb: "/images/photography/los-angeles/04-dscf4275-960.webp"
       width: 960
       height: 670
-      alt: Los Angeles photograph 4
+      alt: 'Los Angeles: Pacific Park'
+      caption: Pacific Park
     - src: "/images/photography/los-angeles/05-dscf4367-1800.webp"
       thumb: "/images/photography/los-angeles/05-dscf4367-960.webp"
       width: 640
       height: 960
-      alt: Los Angeles photograph 5
+      alt: 'Los Angeles: Santa Monica Pier'
+      caption: Santa Monica Pier
     - src: "/images/photography/los-angeles/06-dscf4377-1800.webp"
       thumb: "/images/photography/los-angeles/06-dscf4377-960.webp"
       width: 960
       height: 640
-      alt: Los Angeles photograph 6
+      alt: 'Los Angeles: Pacific sunset'
+      caption: Pacific sunset
     - src: "/images/photography/los-angeles/07-dscf4415-1800.webp"
       thumb: "/images/photography/los-angeles/07-dscf4415-960.webp"
       width: 640
       height: 960
-      alt: Los Angeles photograph 7
+      alt: 'Los Angeles: The pier at dusk'
+      caption: The pier at dusk
     - src: "/images/photography/los-angeles/08-dscf4441-1800.webp"
       thumb: "/images/photography/los-angeles/08-dscf4441-960.webp"
       width: 640
       height: 960
-      alt: Los Angeles photograph 8
+      alt: 'Los Angeles: Rolling Pacific swell'
+      caption: Rolling Pacific swell
     - src: "/images/photography/los-angeles/09-dscf4442-1800.webp"
       thumb: "/images/photography/los-angeles/09-dscf4442-960.webp"
       width: 640
       height: 960
-      alt: Los Angeles photograph 9
+      alt: 'Los Angeles: Waves in motion'
+      caption: Waves in motion
     - src: "/images/photography/los-angeles/10-dscf4485-1800.webp"
       thumb: "/images/photography/los-angeles/10-dscf4485-960.webp"
       width: 960
       height: 640
-      alt: Los Angeles photograph 10
+      alt: 'Los Angeles: Ocean through the window'
+      caption: Ocean through the window
   - title: San Diego
     slug: san-diego
     description: Naval silhouettes, dramatic skies, and the vivid blue water around
@@ -188,32 +221,38 @@
       thumb: "/images/photography/san-diego/01-dscf4522-960.webp"
       width: 960
       height: 640
-      alt: San Diego photograph 1
+      alt: 'San Diego: USS Midway'
+      caption: USS Midway
     - src: "/images/photography/san-diego/02-dscf4580-1800.webp"
       thumb: "/images/photography/san-diego/02-dscf4580-960.webp"
       width: 960
       height: 524
-      alt: San Diego photograph 2
+      alt: 'San Diego: Pacific light'
+      caption: Pacific light
     - src: "/images/photography/san-diego/03-dscf4595-1800.webp"
       thumb: "/images/photography/san-diego/03-dscf4595-960.webp"
       width: 960
       height: 452
-      alt: San Diego photograph 3
+      alt: 'San Diego: Sunset at sea'
+      caption: Sunset at sea
     - src: "/images/photography/san-diego/04-dscf4624-1800.webp"
       thumb: "/images/photography/san-diego/04-dscf4624-960.webp"
       width: 640
       height: 960
-      alt: San Diego photograph 4
+      alt: 'San Diego: La Jolla coast'
+      caption: La Jolla coast
     - src: "/images/photography/san-diego/05-dscf4679-1800.webp"
       thumb: "/images/photography/san-diego/05-dscf4679-960.webp"
       width: 640
       height: 960
-      alt: San Diego photograph 5
+      alt: 'San Diego: White spires'
+      caption: White spires
     - src: "/images/photography/san-diego/06-img-6366-1800.webp"
       thumb: "/images/photography/san-diego/06-img-6366-960.webp"
       width: 720
       height: 960
-      alt: San Diego photograph 6
+      alt: 'San Diego: Airshow crew'
+      caption: Airshow crew
 - title: Hong Kong
   slug: hong-kong
   region: Asia
