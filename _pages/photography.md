@@ -22,8 +22,8 @@ author_profile: true
   {% for album in collection.albums %}
     {% assign collection_count = collection_count | plus: album.photos.size %}
   {% endfor %}
-  <section class="photo-collection" id="{{ collection.slug }}">
-    <div class="photo-collection__heading">
+  <details class="photo-collection" id="{{ collection.slug }}"{% if forloop.first %} open{% endif %}>
+    <summary class="photo-collection__heading">
       <span class="photo-collection__folder" aria-hidden="true"></span>
       <div>
         <span class="photo-collection__region">{{ collection.region }}</span>
@@ -32,8 +32,9 @@ author_profile: true
       </div>
       <span class="photo-collection__count">
         {% if collection_count > 0 %}{{ collection_count }} photographs{% else %}Coming soon{% endif %}
+        <span class="photo-collection__toggle" aria-hidden="true"></span>
       </span>
-    </div>
+    </summary>
 
     {% if collection.albums.size > 0 %}
     <div class="photo-albums">
@@ -73,6 +74,27 @@ author_profile: true
       <span>Collection in progress</span>
     </div>
     {% endif %}
-  </section>
+  </details>
 {% endfor %}
 </div>
+
+<script>
+  (function () {
+    function revealHashTarget() {
+      if (!window.location.hash) return;
+      var target = document.getElementById(window.location.hash.slice(1));
+      if (!target) return;
+      var collection = target.matches(".photo-collection") ? target : target.closest(".photo-collection");
+      if (collection) collection.open = true;
+    }
+
+    document.querySelectorAll(".region-nav a[href^='#']").forEach(function (link) {
+      link.addEventListener("click", function () {
+        var target = document.getElementById(link.getAttribute("href").slice(1));
+        if (target && target.matches(".photo-collection")) target.open = true;
+      });
+    });
+    window.addEventListener("hashchange", revealHashTarget);
+    revealHashTarget();
+  }());
+</script>

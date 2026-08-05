@@ -1,133 +1,206 @@
-- title: "California"
-  slug: "california"
-  region: "United States"
-  description: "Three coastal cities, gathered as one California collection."
+---
+- title: California
+  slug: california
+  region: United States
+  description: Three coastal cities, gathered as one California collection.
   albums:
-    - title: "San Francisco"
-      slug: "san-francisco"
-      description: "Cable cars, fog-softened landmarks, steep streets, and the Pacific edge."
-      photos:
-        - src: "/images/photography/san-francisco/market-street-1800.webp"
-          thumb: "/images/photography/san-francisco/market-street-960.webp"
-          width: 960
-          height: 1393
-          alt: "A cable car descending a steep San Francisco street"
-          caption: "Market Street"
-        - src: "/images/photography/san-francisco/ferry-building-1800.webp"
-          thumb: "/images/photography/san-francisco/ferry-building-960.webp"
-          width: 960
-          height: 640
-          alt: "The Ferry Building clock tower against a clear blue sky"
-          caption: "Ferry Building"
-        - src: "/images/photography/san-francisco/golden-gate-1800.webp"
-          thumb: "/images/photography/san-francisco/golden-gate-960.webp"
-          width: 960
-          height: 668
-          alt: "The Golden Gate Bridge viewed from the shoreline"
-          caption: "Golden Gate"
-        - src: "/images/photography/san-francisco/pacific-edge-1800.webp"
-          thumb: "/images/photography/san-francisco/pacific-edge-960.webp"
-          width: 960
-          height: 1440
-          alt: "Pacific waves meeting a rocky San Francisco shoreline"
-          caption: "Pacific edge"
-        - src: "/images/photography/san-francisco/twin-peaks-1800.webp"
-          thumb: "/images/photography/san-francisco/twin-peaks-960.webp"
-          width: 960
-          height: 1440
-          alt: "San Francisco skyline seen through layers of summer fog"
-          caption: "From Twin Peaks"
-
-    - title: "Los Angeles"
-      slug: "los-angeles"
-      description: "Bright arrivals, Santa Monica color, rolling water, and late Pacific light."
-      photos:
-        - src: "/images/photography/los-angeles/arrival-1800.webp"
-          thumb: "/images/photography/los-angeles/arrival-960.webp"
-          width: 960
-          height: 640
-          alt: "An airplane passing above an In-N-Out sign in Los Angeles"
-          caption: "Arrival"
-        - src: "/images/photography/los-angeles/santa-monica-coaster-1800.webp"
-          thumb: "/images/photography/los-angeles/santa-monica-coaster-960.webp"
-          width: 960
-          height: 640
-          alt: "The yellow roller coaster at Santa Monica Pier"
-          caption: "Santa Monica"
-        - src: "/images/photography/los-angeles/ocean-light-1800.webp"
-          thumb: "/images/photography/los-angeles/ocean-light-960.webp"
-          width: 960
-          height: 1440
-          alt: "Sunlight catching the surface of a breaking Pacific wave"
-          caption: "Ocean light"
-        - src: "/images/photography/los-angeles/pacific-sunset-1800.webp"
-          thumb: "/images/photography/los-angeles/pacific-sunset-960.webp"
-          width: 960
-          height: 640
-          alt: "A warm sunset over the Pacific Ocean"
-          caption: "Pacific sunset"
-        - src: "/images/photography/los-angeles/santa-monica-pier-1800.webp"
-          thumb: "/images/photography/los-angeles/santa-monica-pier-960.webp"
-          width: 960
-          height: 1440
-          alt: "The Ferris wheel and colorful structures of Santa Monica Pier"
-          caption: "The pier at dusk"
-
-    - title: "San Diego"
-      slug: "san-diego"
-      description: "Naval silhouettes, dramatic skies, and the vivid blue water around La Jolla."
-      photos:
-        - src: "/images/photography/san-diego/uss-midway-1800.webp"
-          thumb: "/images/photography/san-diego/uss-midway-960.webp"
-          width: 960
-          height: 640
-          alt: "USS Midway docked on the San Diego waterfront"
-          caption: "USS Midway"
-        - src: "/images/photography/san-diego/pacific-light-1800.webp"
-          thumb: "/images/photography/san-diego/pacific-light-960.webp"
-          width: 960
-          height: 524
-          alt: "Sunlight breaking through dark clouds over the Pacific"
-          caption: "Pacific light"
-        - src: "/images/photography/san-diego/la-jolla-coast-1800.webp"
-          thumb: "/images/photography/san-diego/la-jolla-coast-960.webp"
-          width: 960
-          height: 1440
-          alt: "Rocky cliffs meeting blue water along the La Jolla coast"
-          caption: "La Jolla"
-        - src: "/images/photography/san-diego/la-jolla-sea-lion-1800.webp"
-          thumb: "/images/photography/san-diego/la-jolla-sea-lion-960.webp"
-          width: 960
-          height: 715
-          alt: "A sea lion climbing onto a rock in La Jolla"
-          caption: "La Jolla cove"
-        - src: "/images/photography/san-diego/san-diego-temple-1800.webp"
-          thumb: "/images/photography/san-diego/san-diego-temple-960.webp"
-          width: 960
-          height: 1440
-          alt: "White spires of the San Diego California Temple against a deep blue sky"
-          caption: "White spires"
-
-- title: "Hong Kong"
-  slug: "hong-kong"
-  region: "Asia"
-  description: "Harbour light, dense streets, hills, and quiet edges of the city."
+  - title: San Francisco
+    slug: san-francisco
+    description: Cable cars, fog-softened landmarks, steep streets, and the Pacific
+      edge.
+    photos:
+    - src: "/images/photography/san-francisco/01-dscf3433-1800.webp"
+      thumb: "/images/photography/san-francisco/01-dscf3433-960.webp"
+      width: 960
+      height: 640
+      alt: San Francisco photograph 1
+    - src: "/images/photography/san-francisco/02-dscf3440-1800.webp"
+      thumb: "/images/photography/san-francisco/02-dscf3440-960.webp"
+      width: 960
+      height: 606
+      alt: San Francisco photograph 2
+    - src: "/images/photography/san-francisco/03-dscf3474-1800.webp"
+      thumb: "/images/photography/san-francisco/03-dscf3474-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 3
+    - src: "/images/photography/san-francisco/04-dscf3552-1800.webp"
+      thumb: "/images/photography/san-francisco/04-dscf3552-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 4
+    - src: "/images/photography/san-francisco/05-dscf3607-1800.webp"
+      thumb: "/images/photography/san-francisco/05-dscf3607-960.webp"
+      width: 960
+      height: 743
+      alt: San Francisco photograph 5
+    - src: "/images/photography/san-francisco/06-dscf3651-1800.webp"
+      thumb: "/images/photography/san-francisco/06-dscf3651-960.webp"
+      width: 960
+      height: 640
+      alt: San Francisco photograph 6
+    - src: "/images/photography/san-francisco/07-dscf3661-1800.webp"
+      thumb: "/images/photography/san-francisco/07-dscf3661-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 7
+    - src: "/images/photography/san-francisco/08-dscf3673-1800.webp"
+      thumb: "/images/photography/san-francisco/08-dscf3673-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 8
+    - src: "/images/photography/san-francisco/09-dscf3702-1800.webp"
+      thumb: "/images/photography/san-francisco/09-dscf3702-960.webp"
+      width: 574
+      height: 960
+      alt: San Francisco photograph 9
+    - src: "/images/photography/san-francisco/10-dscf3722-1800.webp"
+      thumb: "/images/photography/san-francisco/10-dscf3722-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 10
+    - src: "/images/photography/san-francisco/11-dscf3723-1800.webp"
+      thumb: "/images/photography/san-francisco/11-dscf3723-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 11
+    - src: "/images/photography/san-francisco/12-dscf3737-1800.webp"
+      thumb: "/images/photography/san-francisco/12-dscf3737-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 12
+    - src: "/images/photography/san-francisco/13-dscf3761-1800.webp"
+      thumb: "/images/photography/san-francisco/13-dscf3761-960.webp"
+      width: 701
+      height: 960
+      alt: San Francisco photograph 13
+    - src: "/images/photography/san-francisco/14-dscf3825-1800.webp"
+      thumb: "/images/photography/san-francisco/14-dscf3825-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 14
+    - src: "/images/photography/san-francisco/15-dscf4094-1800.webp"
+      thumb: "/images/photography/san-francisco/15-dscf4094-960.webp"
+      width: 960
+      height: 576
+      alt: San Francisco photograph 15
+    - src: "/images/photography/san-francisco/16-dscf4275-1800.webp"
+      thumb: "/images/photography/san-francisco/16-dscf4275-960.webp"
+      width: 960
+      height: 670
+      alt: San Francisco photograph 16
+    - src: "/images/photography/san-francisco/17-dscf4377-1800.webp"
+      thumb: "/images/photography/san-francisco/17-dscf4377-960.webp"
+      width: 960
+      height: 640
+      alt: San Francisco photograph 17
+    - src: "/images/photography/san-francisco/18-dscf4415-1800.webp"
+      thumb: "/images/photography/san-francisco/18-dscf4415-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 18
+    - src: "/images/photography/san-francisco/19-dscf4441-1800.webp"
+      thumb: "/images/photography/san-francisco/19-dscf4441-960.webp"
+      width: 640
+      height: 960
+      alt: San Francisco photograph 19
+    - src: "/images/photography/san-francisco/20-dscf4580-1800.webp"
+      thumb: "/images/photography/san-francisco/20-dscf4580-960.webp"
+      width: 960
+      height: 524
+      alt: San Francisco photograph 20
+    - src: "/images/photography/san-francisco/21-dscf4589-1800.webp"
+      thumb: "/images/photography/san-francisco/21-dscf4589-960.webp"
+      width: 960
+      height: 519
+      alt: San Francisco photograph 21
+  - title: Los Angeles
+    slug: los-angeles
+    description: Bright arrivals, Santa Monica color, rolling water, and late Pacific
+      light.
+    photos:
+    - src: "/images/photography/los-angeles/arrival-1800.webp"
+      thumb: "/images/photography/los-angeles/arrival-960.webp"
+      width: 960
+      height: 640
+      alt: An airplane passing above an In-N-Out sign in Los Angeles
+      caption: Arrival
+    - src: "/images/photography/los-angeles/santa-monica-coaster-1800.webp"
+      thumb: "/images/photography/los-angeles/santa-monica-coaster-960.webp"
+      width: 960
+      height: 640
+      alt: The yellow roller coaster at Santa Monica Pier
+      caption: Santa Monica
+    - src: "/images/photography/los-angeles/ocean-light-1800.webp"
+      thumb: "/images/photography/los-angeles/ocean-light-960.webp"
+      width: 960
+      height: 1440
+      alt: Sunlight catching the surface of a breaking Pacific wave
+      caption: Ocean light
+    - src: "/images/photography/los-angeles/pacific-sunset-1800.webp"
+      thumb: "/images/photography/los-angeles/pacific-sunset-960.webp"
+      width: 960
+      height: 640
+      alt: A warm sunset over the Pacific Ocean
+      caption: Pacific sunset
+    - src: "/images/photography/los-angeles/santa-monica-pier-1800.webp"
+      thumb: "/images/photography/los-angeles/santa-monica-pier-960.webp"
+      width: 960
+      height: 1440
+      alt: The Ferris wheel and colorful structures of Santa Monica Pier
+      caption: The pier at dusk
+  - title: San Diego
+    slug: san-diego
+    description: Naval silhouettes, dramatic skies, and the vivid blue water around
+      La Jolla.
+    photos:
+    - src: "/images/photography/san-diego/uss-midway-1800.webp"
+      thumb: "/images/photography/san-diego/uss-midway-960.webp"
+      width: 960
+      height: 640
+      alt: USS Midway docked on the San Diego waterfront
+      caption: USS Midway
+    - src: "/images/photography/san-diego/pacific-light-1800.webp"
+      thumb: "/images/photography/san-diego/pacific-light-960.webp"
+      width: 960
+      height: 524
+      alt: Sunlight breaking through dark clouds over the Pacific
+      caption: Pacific light
+    - src: "/images/photography/san-diego/la-jolla-coast-1800.webp"
+      thumb: "/images/photography/san-diego/la-jolla-coast-960.webp"
+      width: 960
+      height: 1440
+      alt: Rocky cliffs meeting blue water along the La Jolla coast
+      caption: La Jolla
+    - src: "/images/photography/san-diego/la-jolla-sea-lion-1800.webp"
+      thumb: "/images/photography/san-diego/la-jolla-sea-lion-960.webp"
+      width: 960
+      height: 715
+      alt: A sea lion climbing onto a rock in La Jolla
+      caption: La Jolla cove
+    - src: "/images/photography/san-diego/san-diego-temple-1800.webp"
+      thumb: "/images/photography/san-diego/san-diego-temple-960.webp"
+      width: 960
+      height: 1440
+      alt: White spires of the San Diego California Temple against a deep blue sky
+      caption: White spires
+- title: Hong Kong
+  slug: hong-kong
+  region: Asia
+  description: Harbour light, dense streets, hills, and quiet edges of the city.
   albums: []
-
-- title: "Malaysia"
-  slug: "malaysia"
-  region: "Southeast Asia"
-  description: "Tropical streets, architecture, coastlines, and everyday color."
+- title: Malaysia
+  slug: malaysia
+  region: Southeast Asia
+  description: Tropical streets, architecture, coastlines, and everyday color.
   albums: []
-
-- title: "Singapore"
-  slug: "singapore"
-  region: "Southeast Asia"
-  description: "Urban geometry, tropical green, and light around the island."
+- title: Singapore
+  slug: singapore
+  region: Southeast Asia
+  description: Urban geometry, tropical green, and light around the island.
   albums: []
-
-- title: "Changbai Mountain"
-  slug: "changbai-mountain"
-  region: "Northeast China"
-  description: "Mountain weather, volcanic landscapes, forests, and winter light."
+- title: Changbai Mountain
+  slug: changbai-mountain
+  region: Northeast China
+  description: Mountain weather, volcanic landscapes, forests, and winter light.
   albums: []
